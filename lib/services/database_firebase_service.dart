@@ -7,7 +7,4 @@ class DatabaseFirebaseService {
   Stream<QuerySnapshot> get peticoes {
     return usuariosCollection.snapshots();
   }
-
-
-
 }
