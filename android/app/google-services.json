@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "897607579763",
+    "firebase_url": "https://advogado-help.firebaseio.com",
+    "project_id": "advogado-help",
+    "storage_bucket": "advogado-help.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897607579763:android:d3f6c99d2d17173079d206",
+        "android_client_info": {
+          "package_name": "com.example.advo_help"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897607579763-5t9v2q7ir4lcljrhr77176if26k2mamu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATpF1k67d5wcpSDaxlytl7f1D0oroQUv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897607579763-5t9v2q7ir4lcljrhr77176if26k2mamu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
