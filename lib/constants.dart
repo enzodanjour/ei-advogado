@@ -29,3 +29,11 @@ const kMessageTextFieldDecoration = InputDecoration(
   hintText: 'Digite sua mensagem aqui.',
   border: InputBorder.none,
 );
+
+const kMainBackgroundImage = BoxDecoration(
+  image: DecorationImage(
+    image: NetworkImage("https://cartadeservicos.jfrn.jus.br/jfrn10.12fc346bb7d624767f01.jpg"),
+    fit: BoxFit.cover,
+    colorFilter: ColorFilter.mode(Colors.blue, BlendMode.modulate),
+  ),
+);
