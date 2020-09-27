@@ -38,7 +38,7 @@ Widget mesageList(context) {
             'https://www.rd.com/wp-content/uploads/2017/09/01-shutterstock_476340928-Irina-Bg.jpg'
         ),
       ),
-      title: Text('Ricardo Braz'),
+      title: Text('Carla Andreazzi'),
       subtitle: Text('Teaser'),
       onTap: () {
         Navigator.pushNamed(context, ChatScreen.id);
