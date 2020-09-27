@@ -1,3 +1,5 @@
+import 'package:advo_help/screens/home_screen.dart';
+import 'package:advo_help/screens/register_screen.dart';
 import 'package:advo_help/services/auth_firebase_service.dart';
 import 'package:email_validator/email_validator.dart';
 import 'package:flutter/material.dart';
@@ -111,7 +113,7 @@ class _LoginScreenState extends State<LoginScreen> {
                                         email: _emailController.text,
                                         password: _passwordController.text);
                                 if (_auth.user != null) {
-                                   Navigator.pushNamed(context, HomeScreen.id);
+                                    Navigator.pushNamed(context, HomeScreen.id);
                                 }
                                 setState(() {
                                   showSpinner = false;
@@ -136,7 +138,7 @@ class _LoginScreenState extends State<LoginScreen> {
                             // ),
                           ),
                           onPressed: () {
-                           // Navigator.pushNamed(context, RegisterScreen.id);
+                            Navigator.pushNamed(context, RegisterScreen.id);
                           },
                         )
                       ],
