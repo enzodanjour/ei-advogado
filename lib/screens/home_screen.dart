@@ -1,6 +1,6 @@
 import 'package:advo_help/components/navigation_bar.dart';
 import 'package:advo_help/components/peticao_card.dart';
-import 'package:advo_help/screens/boot_screen.dart';
+import 'package:advo_help/screens/bot_screen.dart';
 import 'package:advo_help/screens/contact_screen.dart';
 import 'package:advo_help/screens/peticao_screen.dart';
 import 'package:advo_help/services/database_firebase_service.dart';
