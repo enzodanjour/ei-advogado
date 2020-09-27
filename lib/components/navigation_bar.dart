@@ -42,7 +42,7 @@ class NavigationBar extends StatelessWidget {
             title: bVoidWidget,
           ),
           BottomNavigationBarItem(
-            icon: Icon(Icons.settings),
+            icon: Icon(Icons.help),
             title: bVoidWidget,
           ),
         ],
