@@ -17,5 +17,8 @@ Team:
 
 [Laura Beatriz](https://www.linkedin.com/in/laura-beatriz-fontes/)
 
+PRESENTATIONS:
+
 [apk e apresentação escrita](https://drive.google.com/drive/u/2/folders/1ya5ytPq39yU_3FHlKdUXKKqjPdLoc2jY)
+
 [modelo app desenvolvido](https://youtu.be/zz-akdrr0jA) 
