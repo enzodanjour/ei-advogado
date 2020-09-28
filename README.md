@@ -10,7 +10,9 @@ O "ei, advogado" é um app que possibilita o contato entre o advogado e o requer
 
 Team:
 [Daniel Mendes](https://www.linkedin.com/in/daniellucasmendes/)
+
 [Enzo D'anjour](https://www.linkedin.com/in/enzo-danjour/)
+
 [Gleidson Venceslau](https://www.linkedin.com/in/gleidson-venceslau-85a48656/)
 
 [Laura Beatriz](https://www.linkedin.com/in/laura-beatriz-fontes/)
